@@ -1072,5 +1072,14 @@
       <itunes:duration>00:30:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>איזנקוט ראש ממשלת ישראל？</title>
+      <description>איזנקוט ראש ממשלת ישראל？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-kachlon/%D7%90%D7%99%D7%96%D7%A0%D7%A7%D7%95%D7%98%20%D7%A8%D7%90%D7%A9%20%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%EF%BC%9F.mp3" length="23759589" type="audio/mpeg"/>
+      <guid isPermaLink="false">איזנקוט ראש ממשלת ישראל？.mp3</guid>
+      <pubDate>Thu, 05 Nov 2026 01:46:48 -0000</pubDate>
+      <itunes:duration>00:46:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
