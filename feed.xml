@@ -1648,5 +1648,14 @@
       <itunes:duration>00:30:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>גוש התורה</title>
+      <description>גוש התורה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-kachlon/%D7%92%D7%95%D7%A9%20%D7%94%D7%AA%D7%95%D7%A8%D7%94.mp3" length="29477373" type="audio/mpeg"/>
+      <guid isPermaLink="false">גוש התורה.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 08:44:33 -0000</pubDate>
+      <itunes:duration>01:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
