@@ -1657,5 +1657,14 @@
       <itunes:duration>01:03:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>יסודות התורה (38) ללמוד מדרך השם</title>
+      <description>יסודות התורה (38) ללמוד מדרך השם</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-kachlon/%D7%99%D7%A1%D7%95%D7%93%D7%95%D7%AA%20%D7%94%D7%AA%D7%95%D7%A8%D7%94%20%2838%29%20%D7%9C%D7%9C%D7%9E%D7%95%D7%93%20%D7%9E%D7%93%D7%A8%D7%9A%20%D7%94%D7%A9%D7%9D.mp3" length="17071677" type="audio/mpeg"/>
+      <guid isPermaLink="false">יסודות התורה (38) ללמוד מדרך השם.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 02:24:53 -0000</pubDate>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
