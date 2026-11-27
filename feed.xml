@@ -1711,5 +1711,14 @@
       <itunes:duration>00:30:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>פרשת וישלח הלקח לחיים מפרשה זו</title>
+      <description>פרשת וישלח הלקח לחיים מפרשה זו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-kachlon/%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%95%D7%99%D7%A9%D7%9C%D7%97%20%D7%94%D7%9C%D7%A7%D7%97%20%D7%9C%D7%97%D7%99%D7%99%D7%9D%20%D7%9E%D7%A4%D7%A8%D7%A9%D7%94%20%D7%96%D7%95.mp3" length="9995372" type="audio/mpeg"/>
+      <guid isPermaLink="false">פרשת וישלח הלקח לחיים מפרשה זו.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 04:12:03 -0000</pubDate>
+      <itunes:duration>00:16:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
